@@ -1,4 +1,9 @@
-﻿// 
+﻿// Implement a hash function and a hash table:
+//
+// Design and implement your own hash table that supports adding, searching, and removing elements.
+// Create the specified hash table.
+// Print the hash table – display the values of the elements on the screen.
+// Display the results on the screen.
 //
 
 #include <iostream>
